@@ -93,11 +93,11 @@ Explore as pastas por capítulo. Cada aula contém:
 
 ## 📌 Checklist de Boas Práticas
 
-✔️ Usar unidades relativas
-✔️ Evitar larguras fixas
-✔️ Sempre testar em dispositivos diferentes
-✔️ Garantir boa legibilidade
-✔️ Usar Flexbox ou Grid para adaptação
+* ✔️ Usar unidades relativas
+* ✔️ Evitar larguras fixas
+* ✔️ Sempre testar em dispositivos diferentes
+* ✔️ Garantir boa legibilidade
+* ✔️ Usar Flexbox ou Grid para adaptação
 
 ---
 
